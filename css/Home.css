@@ -91,6 +91,7 @@ header nav .container .menu form button {
 }
 header nav .container .menu form button:hover {
   transform: scale(1.05);
+  cursor: pointer;
 }
 header nav .container form button {
   font-weight: 500;
@@ -105,6 +106,7 @@ header nav .container form button {
 }
 header nav .container form button:hover {
   transform: scale(1.05);
+  cursor: pointer;
 }
 header .show-case {
   margin-top: 24px;
@@ -128,6 +130,7 @@ header .show-case .container .left form button {
   font-size: 18px;
   padding: 16px 30px;
   color: #EF3581;
+  cursor: pointer;
 }
 header .show-case .container .right img {
   width: 100%;
@@ -155,6 +158,7 @@ header .video .container {
 }
 header .video .container img {
   width: 80%;
+  cursor: pointer;
 }
 
 .sc1 {
@@ -194,6 +198,7 @@ header .video .container img {
 }
 .sc1 .container .right .box:hover {
   transform: scale(1.05);
+  cursor: pointer;
 }
 
 .sc2 {
@@ -216,6 +221,7 @@ header .video .container img {
 }
 .sc2 .container form button:hover {
   transform: scale(1.05);
+  cursor: pointer;
 }
 .sc2__content {
   margin-top: 100px;
@@ -235,6 +241,7 @@ header .video .container img {
 }
 .sc2__content .cart:hover {
   transform: scale(1.03);
+  cursor: pointer;
 }
 .sc2__content .cart__title {
   margin: 0 0 12px;
@@ -275,6 +282,7 @@ header .video .container img {
 }
 .sc3__content .cart:hover {
   transform: scale(1.03);
+  cursor: pointer;
 }
 .sc3__content .cart__title {
   margin: 0 0 12px;
@@ -326,6 +334,7 @@ header .video .container img {
   color: #30C917;
   border: none;
   font-weight: 600;
+  cursor: pointer;
 }
 .sc4__content .card__text {
   display: flex;
@@ -414,6 +423,7 @@ header .video .container img {
 }
 .sc7__card form button:hover {
   transform: scale(1.05);
+  cursor: pointer;
 }
 .sc7__card:nth-child(1) {
   background-image: url(../img/sc7/1.png);
@@ -462,6 +472,7 @@ header .video .container img {
 }
 .sc8__card form button:hover {
   transform: scale(1.05);
+  cursor: pointer;
 }
 
 footer {
